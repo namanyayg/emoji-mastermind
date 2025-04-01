@@ -1,0 +1,7 @@
+[project]
+name = "emoji-mastermind"
+version = "0.1.0"
+description = "Mastermind in the terminal with emojis"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
