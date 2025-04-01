@@ -1,5 +1,7 @@
 # Emoji Mastermind
 
+![image](https://github.com/user-attachments/assets/1c298b74-3b7c-4ad2-8b4f-eaf3215d9315)
+
 Play Mastermind on the command line.
 
 Uses cute emojis to represent the colors.
